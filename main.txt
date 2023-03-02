@@ -1,1 +1,7 @@
-hello World
+Resolusi Tahun ini
+1. Harus Bejalar Banyak tentang Backend
+2. Bejalar Git
+3. Belajar Golang
+4. Bejalar Aws
+5. Belajar Mysql
+6. Bejalar Docker
